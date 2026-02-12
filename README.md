@@ -12,5 +12,6 @@ WhyAI aims to build a reliable explanation system that prioritizes factual groun
 
 Prerequisite:
 OpenAI,
-Python
+Python, React
+
 
