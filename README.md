@@ -8,10 +8,5 @@ Problem Statement
 
 Modern news is often complex and written with implicit assumptions about background knowledge.
 Generic LLM summaries risk hallucination, oversimplification, or omission of critical context.
-WhyAI aims to build a reliable explanation system that prioritizes factual grounding, transparency, and explicit uncertainty in real-world news interpretation.
-
-Prerequisite:
-OpenAI,
-Python, React
-
+WhyAI aims to build a reliable explanation system that prioritizes factual grounding, transparency, and explicit uncertainty in real-world 
 
